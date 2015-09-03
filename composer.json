@@ -26,6 +26,11 @@
             "tests/"
         ]
     },
+    "scripts": {
+        "post-create-project-cmd": [
+            "skel/post_create_project.php"
+        ]
+    },
     "config": {
         "preferred-install": "dist"
     }
